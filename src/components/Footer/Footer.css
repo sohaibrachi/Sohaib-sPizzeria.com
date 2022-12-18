@@ -1,0 +1,26 @@
+.footer {
+  width: 100%;
+  height: 200px;
+  background-color: #121619;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+}
+.footer__socials {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.footer__socials svg {
+  color: white;
+  margin: 20px;
+  font-size: 70px;
+  cursor: pointer;
+}
+.footer__copy {
+  color: white;
+  font-size: large;
+}/*# sourceMappingURL=Footer.css.map */
